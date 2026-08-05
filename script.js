@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const factorStudy = document.getElementById('factor-study');
     const recommendationsList = document.getElementById('recommendations-list');
 
-    const API_ENDPOINT = 'http://127.0.0.1:8000/predict';
+    const API_ENDPOINT = 'https://mental-score-predictionb.onrender.com/predict';
 
     // ==========================================
     // 1. Theme Toggle (Dark Mode Default)
