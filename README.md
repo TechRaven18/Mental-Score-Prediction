@@ -7,7 +7,7 @@
   </p>
 
   <p align="center">
-    <a href="https://mental-score-predictor.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-https%3A%2F%2Fmental--score--predictor.onrender.com-0284c7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" /></a>
+    <a href="https://mental-score-prediction.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-https%3A%2F%2Fmental--score--prediction.onrender.com-0284c7?style=for-the-badge&logo=render&logoColor=white" alt="Live Demo" /></a>
     <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+" /></a>
     <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-0.110.0-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /></a>
     <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/Scikit--Learn-Random_Forest-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" /></a>
@@ -15,7 +15,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/ES6+-Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Vanilla JS" /></a>
   </p>
 
-  <h3>🌐 <a href="https://mental-score-predictor.onrender.com">Click Here to Access Live Application</a></h3>
+  <h3>🌐 <a href="https://mental-score-prediction.onrender.com">Click Here to Access Live Application</a></h3>
 
 </div>
 
@@ -33,9 +33,9 @@ By training Scikit-Learn Random Forest Regression models on multi-dimensional em
 
 The application is deployed live on Render and accessible globally:
 
-* **Live Frontend & API Web Application:** [https://mental-score-predictor.onrender.com](https://mental-score-predictor.onrender.com)
-* **REST API Endpoint:** `https://mental-score-predictor.onrender.com/predict`
-* **API Documentation (Swagger UI):** `https://mental-score-predictor.onrender.com/docs`
+* **Live Frontend & API Web Application:** [https://mental-score-prediction.onrender.com](https://mental-score-predictor.onrender.com)
+* **REST API Endpoint:** `https://mental-score-prediction.onrender.com/predict`
+* **API Documentation (Swagger UI):** `https://mental-score-prediction.onrender.com/docs`
 
 ---
 
@@ -239,5 +239,5 @@ This project is open-source and available under the **MIT License**.
 
 <div align="center">
   <p>Maintained by <a href="https://github.com/TechRaven18"><strong>Neeraj Sharma (@TechRaven18)</strong></a></p>
-  <p>🌐 Deployed App: <a href="https://mental-score-predictor.onrender.com"><strong>https://mental-score-predictor.onrender.com</strong></a></p>
+  <p>🌐 Deployed App: <a href="https://mental-score-prediction.onrender.com"><strong>https://mental-score-prediction.onrender.com</strong></a></p>
 </div>
